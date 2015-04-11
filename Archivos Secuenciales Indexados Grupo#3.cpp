@@ -3,9 +3,12 @@
 //Jalapa, Jalapa.
 
 #include <iostream>
+#include <fstrem>
 
 using namespace std;
 
 int main(){
+
+//inicio de archivos secuenciales
 
 }
